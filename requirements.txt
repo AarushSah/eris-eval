@@ -1,0 +1,9 @@
+asyncio
+openai
+weave
+colorama
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
